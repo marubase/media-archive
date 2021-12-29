@@ -37,7 +37,7 @@
      inkscape:cy="111.70706"
      inkscape:window-width="1278"
      inkscape:window-height="1000"
-     inkscape:window-x="-7"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -60,10 +60,10 @@
        xlink:href="#background"
        id="linearGradient1651"
        gradientUnits="userSpaceOnUse"
-       x1="115.52205"
+       x1="-20.854126"
        y1="72.369064"
-       x2="115.52205"
-       y2="126.51335" />
+       x2="288.65869"
+       y2="127.26183" />
   </defs>
   <g
      inkscape:label="Layer 1"
