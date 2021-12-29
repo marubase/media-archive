@@ -33,11 +33,11 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.73406285"
-     inkscape:cx="158.02462"
+     inkscape:cx="159.3869"
      inkscape:cy="348.74398"
      inkscape:window-width="1277"
      inkscape:window-height="1000"
-     inkscape:window-x="-7"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -60,10 +60,10 @@
        xlink:href="#background"
        id="linearGradient1130"
        gradientUnits="userSpaceOnUse"
-       x1="121.1068"
-       y1="36.764561"
-       x2="121.1068"
-       y2="171.20753" />
+       x1="52.368645"
+       y1="36.43145"
+       x2="187.8353"
+       y2="171.8981" />
   </defs>
   <g
      inkscape:label="Layer 1"

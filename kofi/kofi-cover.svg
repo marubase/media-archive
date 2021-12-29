@@ -37,7 +37,7 @@
      inkscape:cy="370.54048"
      inkscape:window-width="1277"
      inkscape:window-height="1000"
-     inkscape:window-x="-7"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
@@ -59,10 +59,10 @@
        inkscape:collect="always"
        xlink:href="#linearGradient204"
        id="linearGradient206"
-       x1="187.06674"
-       y1="0.36043689"
-       x2="187.06674"
-       y2="158.59222"
+       x1="0"
+       y1="0"
+       x2="358.80075"
+       y2="158.75"
        gradientUnits="userSpaceOnUse"
        gradientTransform="scale(0.88489223,0.99999998)" />
   </defs>
